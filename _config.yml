@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jess Alexander"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jess Alexander"
 description              : &description "personal description"
 url                      : https://jessb0t.github.io/
 baseurl                  : "" 
@@ -66,7 +66,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true    # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
