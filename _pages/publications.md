@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Emotional Context and Predictability in Naturalistic Reading Aloud.](https://doi.org/10.1037/emo0001298)
+**Alexander, J. M.** and Buzzell, G. A.
+*Emotion*. 2023.
+Data and code: https://osf.io/pn2hu/
+:thread: testing 
