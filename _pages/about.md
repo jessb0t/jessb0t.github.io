@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jess Alexander"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
