@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   resources:
     - cv.pdf
 
@@ -13,9 +14,9 @@ website:
     - href: publications
       text: Publications
 
+  page-footer:
+    left: "© Copyright 2024 Jessica Alexander."
+
 format:
   html:
     theme: flatly
-
-page-footer:
-    left: "© Copyright 2024 Jessica Alexander."
