@@ -1,0 +1,26 @@
+---
+title: "Jess Alexander"
+image: "avatar.jpg"
+about:
+  template: trestles
+  links:
+    - icon: github
+      url: "https://github.com/jessb0t"
+    - icon: linkedin
+      url: "https://www.linkedin.com/in/jessmalexander/"
+    - icon: twitter
+      url: "https://x.com/je55bot"
+    - icon: envelope
+      url: "mailto:jessica.alexander@utexas.edu"
+    - text: CV
+      url: "cv.pdf"
+comments: false
+---
+
+## About
+
+TBD
+
+## Research
+
+TBD

@@ -1,0 +1,21 @@
+project:
+  type: website
+  resources:
+    - cv.pdf
+
+website:
+  title: "Jess Alexander"
+  site-url: https://jessb0t.github.io
+  navbar:
+    right:
+    - href: index.qmd
+      text: Home
+    - href: publications
+      text: Publications
+
+format:
+  html:
+    theme: flatly
+
+page-footer:
+    left: "© Copyright 2024 Jessica Alexander."
