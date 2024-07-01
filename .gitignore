@@ -6,3 +6,6 @@
 .Rproj.user/
 .quarto/
 /.quarto/
+
+#Ingnore notes
+notes.txt

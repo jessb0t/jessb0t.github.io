@@ -1,6 +1,7 @@
 ---
 title: "Jess Alexander"
 image: "avatar.jpg"
+image-alt: "close-up photo of Jess"
 about:
   template: trestles
   links:
