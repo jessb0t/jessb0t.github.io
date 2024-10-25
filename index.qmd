@@ -32,5 +32,6 @@ Natural human language is often conceptualized as serving a fundamental role of 
 My research seeks to broaden our understanding of the cognitive consequences of emotional communication with a view toward improving assistive hearing technologies, enhancing human-computer interactions, and creating healthier acoustic spaces for learning, work, and play.
 
 ## News
+<span class="badge bg-success">2024-10-15</span> Honored to be selected as an inaugural fellow of the UT Austin Scholars Lab.<br>
 <span class="badge bg-success">2024-06-30</span> Launched this website!
 :::
