@@ -9,8 +9,8 @@ about:
       url: "https://github.com/jessb0t"
     - icon: linkedin
       url: "https://www.linkedin.com/in/jessmalexander/"
-    - icon: twitter
-      url: "https://x.com/je55bot"
+    - text: BSky
+      url: "https://bsky.app/profile/je55bot.bsky.social"
     - icon: envelope
       url: "mailto:jessica.alexander@utexas.edu"
     - text: CV
