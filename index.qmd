@@ -32,6 +32,7 @@ Natural human language serves a fundamental role in social communication, both i
 My research seeks to broaden our understanding of the cognitive consequences of emotional communication with a view toward improving assistive hearing technologies, enhancing human-computer interactions, and creating healthier acoustic spaces for learning, work, and play.
 
 ## News
+<span class="badge bg-success">2025-09-12</span> Presented a poster at [SNL](https://2025.neurolang.org/) on the processing disadvantages of vocoded happy speech.<br>
 <span class="badge bg-success">2025-09-02</span> Helped organize the fourth (almost) annual [CNSP workshop](https://cnspworkshop.net/workshops.html).<br>
 <span class="badge bg-success">2025-06-03</span> Our [paper](https://doi.org/10.1121/10.0036812) on emotional speech in noise is out in JASA!<br>
 <span class="badge bg-success">2025-02-13</span> Led a  [workshop](https://guides.lib.utexas.edu/data-and-donuts) on data visualization.<br>
