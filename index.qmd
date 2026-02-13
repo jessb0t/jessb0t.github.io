@@ -32,10 +32,11 @@ Natural human language serves a fundamental role in social communication, both i
 My research seeks to broaden our understanding of the cognitive consequences of emotional communication with a view toward improving assistive hearing technologies, enhancing human-computer interactions, and creating healthier acoustic spaces for learning, work, and play.
 
 ## News
-<span class="badge bg-success">2025-09-12</span> Presented a poster at [SNL](https://2025.neurolang.org/) on the processing disadvantages of vocoded happy speech.<br>
+<span class="badge bg-success">2026-02-13</span> Led a  [workshop](https://guides.lib.utexas.edu/data-and-donuts) on working with color in ggplot2.<br>
+<span class="badge bg-success">2025-09-12</span> Presented a poster at [SNL](https://www.neurolang.org/) on the processing disadvantages of vocoded happy speech.<br>
 <span class="badge bg-success">2025-09-02</span> Helped organize the fourth (almost) annual [CNSP workshop](https://cnspworkshop.net/workshops.html).<br>
 <span class="badge bg-success">2025-06-03</span> Our [paper](https://doi.org/10.1121/10.0036812) on emotional speech in noise is out in JASA!<br>
-<span class="badge bg-success">2025-02-13</span> Led a  [workshop](https://guides.lib.utexas.edu/data-and-donuts) on data visualization.<br>
+<span class="badge bg-success">2025-02-13</span> Led a  [workshop](https://guides.lib.utexas.edu/data-and-donuts/24-25-workshops) on data visualization.<br>
 <span class="badge bg-success">2024-11-19</span> Presented a flashtalk at [ASA187](https://acousticalsociety.org/) on the benefits of happy and angry prosody for speech & emotion recognition.<br>
 <span class="badge bg-success">2024-10-15</span> Honored to be selected as an inaugural [fellow of the UT Austin Scholars Lab](https://lib.utexas.edu/visit-us/library-spaces/scholars-lab/scholars-lab-fellows/2025).<br>
 <span class="badge bg-success">2024-06-30</span> Launched this website!
